@@ -12,4 +12,5 @@ Wires:
   myNAND.out -> out;
 ```
 ![NOT](https://gitlab.com/HeinD/MHRD/raw/master/NOT/NOT.png)
-Score: 1
+
+**Score**: 1
