@@ -30,3 +30,5 @@ Truth Table:
  1   || 0
 
 ```
+
+![NOT](/NOT.png)
