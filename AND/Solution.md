@@ -15,5 +15,3 @@ Wires:
   myNot.out -> out;
 ```
 ![AND](https://gitlab.com/HeinD/MHRD/raw/master/AND/AND.png)
-
-**Score**: 2
