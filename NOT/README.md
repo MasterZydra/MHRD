@@ -31,4 +31,4 @@ Truth Table:
 
 ```
 
-![NOT](https://gitlab.com/HeinD/MHRD/blob/master/NOT/NOT.png)
+![NOT](https://gitlab.com/HeinD/MHRD/raw/master/NOT/NOT.png)
