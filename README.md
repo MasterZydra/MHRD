@@ -6,7 +6,8 @@ The logic circuits were created with [Logic Sim](http://www.tetzl.de/java_logic_
 ## Tasks
 | Task | Score |
 |:-:|:-:|
-| *NAND* | *1* |
 | NOT | 1 |
 | AND | 2 |
 | OR | 4 |
+
+The score indicates how many NAND modules were needed. A NAND module has the value 1.
