@@ -30,5 +30,3 @@ Truth Table:
  1   || 0
 
 ```
-
-![NOT](https://gitlab.com/HeinD/MHRD/raw/master/NOT/NOT.png)
