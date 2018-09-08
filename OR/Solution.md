@@ -17,5 +17,3 @@ Wires:
   myNand.out -> out;
 ```
 ![OR](https://gitlab.com/HeinD/MHRD/raw/master/OR/OR.png)
-
-**Score**: 4
