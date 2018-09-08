@@ -16,3 +16,4 @@ Wires:
   myNot2.out -> myNand.in2,
   myNand.out -> out;
 ```
+![OR](https://gitlab.com/HeinD/MHRD/raw/master/OR/OR.png)
