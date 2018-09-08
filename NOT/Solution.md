@@ -9,6 +9,5 @@ Parts: myNand NAND;
 Wires:
   in -> myNand.in1,
   in -> myNand.in2,
-  myNAND.out -> out
-;
+  myNAND.out -> out;
 ```
