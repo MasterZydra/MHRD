@@ -7,6 +7,7 @@ The logic circuits were created with [Logic Sim](http://www.tetzl.de/java_logic_
 | Task | NAND Count |
 |:-:|:-:|
 | NOT | 1 |
+| NOT4B | 4 |
 | AND | 2 |
 | OR | 4 |
 | XOR | 4 |
