@@ -11,3 +11,4 @@ Wires:
   in -> myNand.in2,
   myNAND.out -> out;
 ```
+![NOT](https://gitlab.com/HeinD/MHRD/raw/master/NOT/NOT.png)
