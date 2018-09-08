@@ -14,3 +14,4 @@ Wires:
   myNand.out -> myNot.in,
   myNot.out -> out;
 ```
+![AND](https://gitlab.com/HeinD/MHRD/raw/master/AND/AND.png)
