@@ -9,5 +9,6 @@ The logic circuits were created with [Logic Sim](http://www.tetzl.de/java_logic_
 | NOT | 1 |
 | NOT4B | 4 |
 | AND | 2 |
+| AND4B | 8 |
 | OR | 4 |
 | XOR | 4 |
