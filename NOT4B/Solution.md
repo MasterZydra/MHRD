@@ -20,4 +20,4 @@ Wires:
   myNot3.out -> out[3],
   myNot4.out -> out[4];
 ```
-![OR](https://gitlab.com/HeinD/MHRD/raw/master/NOT4B/NOT4B.png)
+![OR](https://github.com/MasterZydra/MHDR/blob/master/NOT4B/NOT4B.png?raw=true)
