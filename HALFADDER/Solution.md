@@ -24,4 +24,4 @@ Wires:
   myNand2.out -> myNandO.in2,
   myNandO.out -> out;
 ```
-![XOR](https://gitlab.com/HeinD/MHRD/raw/master/HALFADDER/HALFADDER.png)
+![XOR](https://github.com/MasterZydra/MHDR/blob/master/HALFADDER/HALFADDER.png?raw=true)
