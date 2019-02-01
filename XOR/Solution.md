@@ -21,4 +21,4 @@ Wires:
   myNand3.out -> myNand.in2,
   myNand.out -> out;
 ```
-![XOR](https://gitlab.com/HeinD/MHRD/raw/master/XOR/XOR.png)
+![XOR](https://github.com/MasterZydra/MHDR/blob/master/XOR/XOR.png?raw=true)
