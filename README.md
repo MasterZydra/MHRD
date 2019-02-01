@@ -13,3 +13,5 @@ The logic circuits were created with [Logic Sim](http://www.tetzl.de/java_logic_
 | OR | 4 |
 | OR4W | 9 |
 | XOR | 4 |
+| ------ | ------ |
+| HALFADDER | 5 |
