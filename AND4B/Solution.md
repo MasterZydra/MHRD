@@ -24,4 +24,4 @@ Wires:
   myAnd3.out -> out[3],
   myAnd4.out -> out[4];
 ```
-![AND4B](https://gitlab.com/HeinD/MHRD/raw/master/AND4B/AND4B.png)
+![AND4B](https://github.com/MasterZydra/MHDR/blob/master/AND4B/AND4B.png?raw=true)
