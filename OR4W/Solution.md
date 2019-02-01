@@ -18,4 +18,4 @@ Wires:
   myOr2.out -> myOrE.in2,
   myOrE.out -> out;
 ```
-![NOT](https://gitlab.com/HeinD/MHRD/raw/master/OR4W/OR4W.png)
+![NOT](https://github.com/MasterZydra/MHDR/blob/master/OR4W/OR4W.png?raw=true)
