@@ -11,4 +11,5 @@ The logic circuits were created with [Logic Sim](http://www.tetzl.de/java_logic_
 | AND | 2 |
 | AND4B | 8 |
 | OR | 4 |
+| OR4W | 9 |
 | XOR | 4 |
