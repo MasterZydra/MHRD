@@ -16,3 +16,4 @@ The logic circuits were created with [Logic Sim](http://www.tetzl.de/java_logic_
 | ------ | ------ |
 | HALFADDER | 5 |
 | MUX | 4 |
+| DEMUX | 4 |
